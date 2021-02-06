@@ -33,7 +33,7 @@ header .logo{
     color: var(--vermelho);
     font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
     font-size: 250%;
-    /*line-height: normal;*/
+    line-height: normal;
     /*background: url("/img/netflix-logo@logotyp.us.svg");*/
 }
 
